@@ -1,7 +1,4 @@
 # Investigating-TMDB-Dataset-Project
-
-# Investigating-TMDB-Dataset-Project
-
 # TMDB-Movies-Dataset
 
 ### Introduction
